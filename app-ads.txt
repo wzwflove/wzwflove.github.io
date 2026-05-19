@@ -10375,3 +10375,11 @@ toponad.com,16513d1e193a2a,RESELLER,1d49fe424a1a456d
 trustedstack.com,TSTKQ5827,RESELLER
 ucfunnel.com,par-9A23ADEEDB99A76804B276748E8E2434,RESELLER
 video.unrulymedia.com,290726769,RESELLER
+smilewanted.com, 6022, reseller
+zetaglobal.net, 630, reseller
+indexexchange.com, 215209, reseller, 50b1c356f2c5c8fc
+selectmedia.asia, 645b5a31e427dc0a87094fc4, reseller, e365c871a27c655d
+conversantmedia.com, 100357, reseller, 03113cd04947736d
+criteo.com, b-062019, reseller, 9fac4a4a87c2a44f
+playdigo.com, 2010, reseller
+sharethrough.com, 3817, reseller, d53b998a7bd4ecd2
